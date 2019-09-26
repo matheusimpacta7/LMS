@@ -1,0 +1,8 @@
+html, body{
+    background-color:rgb(203, 203, 253);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000;
+}
+h1{
+    font-size: 20pt;
+}
